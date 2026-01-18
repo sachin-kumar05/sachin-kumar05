@@ -1,4 +1,4 @@
-# 👋 Amit Kumar
+# 👋 Sachin Kumar
 
 🎓 **Student | Aspiring Software Engineer**  
 💻 **MERN Stack Developer | DSA Enthusiast (C++)**
