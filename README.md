@@ -5,70 +5,59 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-I am a dedicated computer science student with a strong interest in **full-stack web development** and **data structures & algorithms**. I enjoy understanding systems from the ground up — whether it’s how a backend API works internally, how databases optimize queries, or how algorithms scale with constraints.
+I am a dedicated computer science student with a strong interest in **full-stack web development** and **data structures & algorithms**. I enjoy understanding systems from the ground up — whether it’s backend API design, database internals, or algorithmic optimization.
 
 I focus on writing **clean, maintainable code** and continuously improving my problem-solving skills by learning fundamentals deeply rather than relying on shortcuts.
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
 ### Programming Languages
-- **C++** (Data Structures & Algorithms)
-- **JavaScript (ES6+)**
-- **Python** (Pandas, scripting basics)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Web Development
-- **Frontend:** React.js, HTML5, CSS3
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB (Mongoose, Aggregation Framework)
-- **Authentication & APIs:** REST APIs, JWT
-- **Cloud & Media:** Cloudinary (image/video uploads)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Core Computer Science
-- Data Structures & Algorithms  
-  (Arrays, Linked Lists, Stack, Queue, Trees, BST, AVL, Graphs, Heap)
-- Computer Architecture  
-  (Processor design, memory hierarchy, cache mapping)
-- Linux Basics & Shell Scripting
-- Linear Algebra fundamentals
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ---
 
-## What I’m Currently Working On
+## 📊 GitHub Stats
 
-- 📌 Strengthening **DSA problem-solving** using C++ (LeetCode & core theory)
-- 📌 Building **backend controllers from scratch** to improve real-world API design
-- 📌 Learning **MongoDB aggregation & pagination patterns**
-- 📌 Advancing toward **full-stack MERN projects** with production-level structure
-
----
-
-## Learning Philosophy
-
-- Fundamentals first, frameworks second  
-- Readable code > clever code  
-- Debugging is a skill, not a problem  
-- Consistency beats intensity  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
 
 ---
 
-## Goals
+## 🚀 What I’m Currently Working On
 
-- Become a **strong backend-oriented full-stack developer**
-- Master **DSA + system fundamentals**
+- Strengthening **DSA problem-solving** using C++
+- Writing **backend controllers from scratch** for real-world APIs
+- Learning **MongoDB aggregation & pagination patterns**
+- Building **production-oriented MERN stack projects**
+
+---
+
+## 🎯 Goals
+
+- Become a **backend-oriented full-stack developer**
+- Master **DSA and core CS fundamentals**
 - Build scalable, real-world applications
-- Contribute to open-source projects in the future
-
----
-
-## Connect With Me
-
-- **GitHub:** _You are already here 🙂_
-- **LeetCode:** Active problem solver
-- **LinkedIn:** _(add when ready)_
+- Contribute to open-source projects
 
 ---
 
